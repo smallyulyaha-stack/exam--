@@ -1,0 +1,12 @@
+{
+  "name": "pis-viti-exam-17",
+  "version": "1.0.0",
+  "description": "SOLID SRP Task 17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
